@@ -1,0 +1,13 @@
+name = "Crumbling Hearts"
+filename = "crumbling-hearts-1.4-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ERg04BbS/versions/dmRKYNjW/crumbling-hearts-1.4-1.20.jar"
+hash-format = "sha512"
+hash = "566b610ccf398cdd4f3ddde20f96852920a168473f49cfb1e3180d2ccb30705ea8614e3c622a113714d639d0ac2303e3cef9cc5c155ace286c00538f2d5e158c"
+
+[update]
+[update.modrinth]
+mod-id = "ERg04BbS"
+version = "dmRKYNjW"

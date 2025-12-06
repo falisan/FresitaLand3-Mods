@@ -1,0 +1,13 @@
+name = "Fresh Food"
+filename = "Fresh Food 1.1 - 1.20.1-1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UoLAbzII/versions/CRI4mlJe/Fresh%20Food%201.1%20-%201.20.1-1.21.1.zip"
+hash-format = "sha512"
+hash = "7079b9d28b4d28db27409e2df4240fb9c43b737386ab133498f7a7b9cd13efabf2c369d5f0a621892132d77b6c499dbf749a7687fe055e0f905e72cdbed945a1"
+
+[update]
+[update.modrinth]
+mod-id = "UoLAbzII"
+version = "CRI4mlJe"

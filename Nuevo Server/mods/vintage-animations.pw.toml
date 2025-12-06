@@ -1,0 +1,13 @@
+name = "Vintage Animations"
+filename = "vintage_animations-fabric-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yY9ix3J0/versions/SD1BRg2A/vintage_animations-fabric-1.3.0.jar"
+hash-format = "sha512"
+hash = "1d37331810655a696c5561f587a6dfb963c11dbf6fa634859ff067af0a0ec56c1db7c1c1c01edc5e316d4ec975f70ac010b253a3caa56acf52b7307d764ccacc"
+
+[update]
+[update.modrinth]
+mod-id = "yY9ix3J0"
+version = "SD1BRg2A"
