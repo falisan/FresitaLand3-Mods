@@ -530,6 +530,16 @@ hash = "dc1fcf1d5c656c6c18416551f474586f7d6539e67c3f3ab255069e1961de26b1"
 metafile = true
 
 [[files]]
+file = "mods/jupiter.pw.toml"
+hash = "a22f01a6b2a600bb81fe229fe51f414fecbf6e41f716528b7dd5112bf19fcdea"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "5b59edc7c3948b1119e289f6b4ada47f281d84131b377c01d5ffd88871aed2eb"
+metafile = true
+
+[[files]]
 file = "mods/knightquest-fabric-1.20.1-1.9.3.jar"
 hash = "403bb00236640f16690491115a899c428b69ee2c48681dbc29a6145e596e08d4"
 
@@ -914,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "56ee7ab28322827548d5dc12895c2e2f5f1c2ceb80656d709bec29dfa14657a3"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "fc7b5f460ec60535a130187f234adfc16d82171b5efa3f9d5201bffc4eb90346"
 metafile = true
 
 [[files]]
