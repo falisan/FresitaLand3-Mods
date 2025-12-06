@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Armor of the Ages-fabric-1.20.1-1.3.12.jar"
+hash = "d0a8e72aaf10845ad4fdde5f7c3d85ec87235f443dccb2e58b0dbde848865738"
+
+[[files]]
 file = "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
 hash = "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60"
 
@@ -45,11 +49,6 @@ hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
-metafile = true
-
-[[files]]
-file = "mods/armor-of-the-ages.pw.toml"
-hash = "26f080de4476e40de7695b826afd36ef8825d467a2e3202c9aa1c54a47585e1e"
 metafile = true
 
 [[files]]
