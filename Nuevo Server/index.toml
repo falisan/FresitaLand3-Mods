@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-9.2.14-fabric.jar"
 hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
@@ -25,6 +40,11 @@ hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
@@ -34,11 +54,31 @@ file = "mods/minecraft-comes-alive-7.6.13+1.20.1-universal.jar"
 hash = "b50b8fd0cc3a3e8247d5bc120dfe132eade1edc02e99458b6e008bfc6b40aecc"
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "b852615d05a8e25c2a84af3443e25fcd46e7a0d996ddbf3c0c860928846f1f40"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "29c797078c75535e95403bbb351e779371bdc817788e2d043760b4852d87160a"
 metafile = true
