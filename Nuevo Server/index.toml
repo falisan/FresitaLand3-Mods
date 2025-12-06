@@ -473,11 +473,6 @@ hash = "dad3ea3c6c5fbfde3dbef7b1dd120c255c23b96e685479bc363b667eb5cba581"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
-metafile = true
-
-[[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "5f74332db22a2eda4c05a7469cf57af07438ccb3fbb016b1ba9131b7164e7a1a"
 metafile = true
@@ -580,11 +575,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-7.6.13+1.20.1-universal.jar"
 hash = "b50b8fd0cc3a3e8247d5bc120dfe132eade1edc02e99458b6e008bfc6b40aecc"
-
-[[files]]
-file = "mods/mobs-of-mythology.pw.toml"
-hash = "8ffe6ccc77d762ca3c888649e64df2db882ebb1dafa3d8d7ac0db27f8fc8ef8e"
-metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
