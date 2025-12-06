@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Armor of the Ages-fabric-1.20.1-1.3.12.jar"
-hash = "d0a8e72aaf10845ad4fdde5f7c3d85ec87235f443dccb2e58b0dbde848865738"
-
-[[files]]
 file = "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
 hash = "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60"
 
