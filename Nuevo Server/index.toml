@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/IceAndFireCE-1.2.1-1.20.1-fabric.jar"
+hash = "1545257965141501457a5e8adf849aeb4de5c24379825f0e3e529d83229ac236"
+
+[[files]]
 file = "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
 hash = "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60"
+
+[[files]]
+file = "mods/PatPat-1.2.3+1.20.1.jar"
+hash = "51a9543e77f40dee9bdb2ccd8a18e2e20f9d662d81c6dbcdb2019d9cdb66a104"
+
+[[files]]
+file = "mods/RidingPartners-fabric-1.20.1.jar"
+hash = "cb98aa90137a301acfbb32fea4ecaf391e762e3dd2c304a103107deebb1edea1"
 
 [[files]]
 file = "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
@@ -31,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
+metafile = true
+
+[[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
 metafile = true
 
 [[files]]
@@ -65,11 +82,6 @@ metafile = true
 [[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "6b425dab96068593f876377e439caf9c7f91e49336db0d3646b2da111331adba"
-metafile = true
-
-[[files]]
-file = "mods/boat-item-view.pw.toml"
-hash = "d6878871a07870b33821beed20118368e779c17574062d5d771eb38b9403e875"
 metafile = true
 
 [[files]]
@@ -203,6 +215,10 @@ hash = "5da71a1bb494f0209e1decf0e7d8abfdfa2fb54646ca1635235b1abcecf660e4"
 metafile = true
 
 [[files]]
+file = "mods/death-count-1.0.jar"
+hash = "4a555e194e50b35551c2937beda4654ef5f55035812666535c9fecf6abaf8545"
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
@@ -220,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
+metafile = true
+
+[[files]]
+file = "mods/dive-in.pw.toml"
+hash = "12395451759fc8eabc57a7dc6a13e77887b2b7a13f204db545e87631389317bc"
 metafile = true
 
 [[files]]
@@ -313,26 +334,6 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "e374551967a4fc99edb9fc60ba96845aa0252b4a12236e7591d921c1664f6001"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "751b5e7213feb2072ee728327dcbb58134add5c5b0441c866dc0aa9fa1255e3b"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
-metafile = true
-
-[[files]]
 file = "mods/fairy-lights-fabric.pw.toml"
 hash = "1c3c3cfd3c5739c289262319eddc8994d55ddd984d96651fbd1ecbdac67278ff"
 metafile = true
@@ -348,6 +349,10 @@ hash = "4bd9ac202d078e664dd7d6a9edc52886ff2282aab14f7ad9cf7492b7424cb495"
 metafile = true
 
 [[files]]
+file = "mods/fantasy_armor-1.1.1-1.20.1.jar"
+hash = "b073cfd2e8eea61713983ff7088129819e69d0e3d3f59624d94fa09c5a474871"
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "14e141719b2166b70fc329f620bea34892696f8677127f7181ba2533519e8c56"
 metafile = true
@@ -361,6 +366,10 @@ metafile = true
 file = "mods/fast-paintings.pw.toml"
 hash = "d789f4c9d4d053d7a2810eba08ef663305a886b1c0ef8ee5463ee6e4bd8ac659"
 metafile = true
+
+[[files]]
+file = "mods/figura-0.1.5+1.20.1-fabric-mc.jar"
+hash = "20cb47cb329d180d7488ee64eb032fba480f1734c0318846fe2549992438ee68"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -478,6 +487,11 @@ hash = "5f74332db22a2eda4c05a7469cf57af07438ccb3fbb016b1ba9131b7164e7a1a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "3672b3edce704d7637026380856c52e26e140f975456a24e414d1083ffde6fc5"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "e021e02498726e2976cb713722733dfec7bd45d4b1b93738e06f76822873a198"
 metafile = true
@@ -508,6 +522,10 @@ hash = "dc1fcf1d5c656c6c18416551f474586f7d6539e67c3f3ab255069e1961de26b1"
 metafile = true
 
 [[files]]
+file = "mods/knightquest-fabric-1.20.1-1.9.3.jar"
+hash = "403bb00236640f16690491115a899c428b69ee2c48681dbc29a6145e596e08d4"
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
 metafile = true
@@ -516,6 +534,10 @@ metafile = true
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
+
+[[files]]
+file = "mods/leashmod-1.0.6.jar"
+hash = "9a830810f31ef17ae16b198fdeead93a60bfb84a07e3a405e4435446d67dbb16"
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
@@ -657,6 +679,11 @@ hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
 
 [[files]]
+file = "mods/perception.pw.toml"
+hash = "6b1d8a97cad7af9a2ee36afd2f0578610187908b58e16ae22a4ecdc1ca0fab24"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "45bad197ce3bd59953c87a6c7e10031da310bb65b765bb53b43b1e35eb8232b1"
 metafile = true
@@ -716,6 +743,10 @@ hash = "a812307bc32bf4fa246f43e3d7dfd758c6ad75fc54448660303664582e4d272e"
 metafile = true
 
 [[files]]
+file = "mods/rpgdifficulty-1.3.16.jar"
+hash = "42e3d6516a06fb39e2e3e41461326fcbe6d8bbbe4f9cb8df0de5b5f955c3b1e2"
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
@@ -729,6 +760,10 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "fae2bc6c282159f6a2e55e22d19241c625a9795dddbe8bd0f0b501c8aa709be1"
 metafile = true
+
+[[files]]
+file = "mods/skinrestorer-2.4.3+1.20-fabric.jar"
+hash = "bede7324ff160a1860db2ea2e493690cb831175489356565babcae932972aac1"
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
@@ -753,16 +788,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
-hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "6e5a8f947f77a0a9cf18347edd01a08fc725c2ecaa10cf61e6b429a54e50a463"
 metafile = true
 
 [[files]]
@@ -894,11 +919,6 @@ hash = "5bba63e855efd5e7249461bf210c21b4da30590c62a93f1d40704e978500f2b1"
 metafile = true
 
 [[files]]
-file = "mods/vintage-animations.pw.toml"
-hash = "f4d12f63aae723cf110f069baa87722aabff032c28b645edc3d51f5621db9051"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
 metafile = true
@@ -922,6 +942,14 @@ metafile = true
 file = "mods/wakes.pw.toml"
 hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
 metafile = true
+
+[[files]]
+file = "mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar"
+hash = "7d8cff807bc53eaa6f4af2dc6c565d28a81663818c3dc566fd7c3a445b7b0962"
+
+[[files]]
+file = "mods/watermedia-2.1.37.jar"
+hash = "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
@@ -979,6 +1007,11 @@ hash = "87f10ab2b270f3ee946cc303c401575cb2b3e63be10547838d596f8a46b58490"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/canoe-boats.pw.toml"
 hash = "b06009e908d0de2ecf73c8d54815980f253a4c2346381acce016291aee870908"
 metafile = true
@@ -1006,6 +1039,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
 hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reanimated-blue.pw.toml"
+hash = "fdcf2eb51f42951873fdfcb10d0d1d5a237df7e72689873195335acfdde62a09"
+metafile = true
+
+[[files]]
+file = "resourcepacks/silly-moves.pw.toml"
+hash = "c47965cdcec3c71af724d3b1d2c7fb66469c998965f5733998dcca65ad2bacfa"
 metafile = true
 
 [[files]]

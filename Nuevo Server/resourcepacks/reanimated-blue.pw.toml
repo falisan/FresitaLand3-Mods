@@ -1,0 +1,13 @@
+name = "Reanimated Blue"
+filename = "§fReanimated §3Blue §7v0.09.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/me8t48Yi/versions/4iAg93pC/%C2%A7fReanimated%20%C2%A73Blue%20%C2%A77v0.09.zip"
+hash-format = "sha512"
+hash = "b1cb5f54b52ad723cae7c21f15c5477ac0626c758078f6e4c3aae1fe134b5b54c25dc97e1898ef71889c46b82f9f12223005b79275999a247821e65c9eade8d4"
+
+[update]
+[update.modrinth]
+mod-id = "me8t48Yi"
+version = "4iAg93pC"
