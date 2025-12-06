@@ -905,6 +905,10 @@ hash = "5f3c18a7039ac4519797b6e6ea27fa1ed507b7315cd883fc9ac0b00c58aa36ef"
 metafile = true
 
 [[files]]
+file = "mods/txnilib-fabric-1.0.24-1.20.1.jar"
+hash = "b1d2848cc92f94bd3c0786e68ce0e7d750c53d3b0a82bc61603d0db2753ff355"
+
+[[files]]
 file = "mods/typewriter-daycounter.pw.toml"
 hash = "ea0860db91d08d3c32a5a141d21a297b43608563b7594015c6d89ecde0b45463"
 metafile = true
