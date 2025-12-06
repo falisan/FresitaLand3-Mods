@@ -1,0 +1,13 @@
+name = "Item interactions mod"
+filename = "item-interactions-mod-fabric+1.20.1-2.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MC6hfccQ/versions/Jz3KlujH/item-interactions-mod-fabric%2B1.20.1-2.1.4.jar"
+hash-format = "sha512"
+hash = "5321bd8e4fdd669a84a267227d8498c02a39532ed96b0dec11b71364c4c95caace73906478eeeb1d0311503a6a1f7da8b2b4a887b30cafa80afad8ae927887a4"
+
+[update]
+[update.modrinth]
+mod-id = "MC6hfccQ"
+version = "Jz3KlujH"

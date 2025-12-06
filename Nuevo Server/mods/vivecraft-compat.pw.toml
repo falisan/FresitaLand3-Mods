@@ -1,0 +1,13 @@
+name = "ViveCraft Compat"
+filename = "vivecraftcompatfabric-1.20-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93cc478312cb2952ddd78727a8ebaeef8dd4931c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7199982
+project-id = 895840
