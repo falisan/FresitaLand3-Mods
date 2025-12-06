@@ -54,11 +54,6 @@ hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
 metafile = true
 
 [[files]]
-file = "mods/animationoverhaul.pw.toml"
-hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
@@ -768,6 +763,10 @@ hash = "42e3d6516a06fb39e2e3e41461326fcbe6d8bbbe4f9cb8df0de5b5f955c3b1e2"
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
+
+[[files]]
+file = "mods/seriousplayeranimations-1.1.1.jar"
+hash = "5c5c08c67e776786b6fe51c45503f60b63e32f1ff2b6c62e1f208eef0e90665b"
 
 [[files]]
 file = "mods/simple-hats.pw.toml"
