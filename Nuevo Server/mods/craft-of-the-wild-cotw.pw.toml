@@ -1,0 +1,13 @@
+name = "Craft Of The Wild (COTW)"
+filename = "craft_of_the_wild-fabric-1.20.1-1.0.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HsEWU7cz/versions/DNPrGS3F/craft_of_the_wild-fabric-1.20.1-1.0.1-beta.jar"
+hash-format = "sha512"
+hash = "ab2a1494e246ccc0c9cd3645f1c54cd73dee4a53605129160b69ef7a9e38d8dd5217aa0ee4f94798eaff4f7079efdbc62e5fd1bf890a26b5265dcdbeea5e9fa6"
+
+[update]
+[update.modrinth]
+mod-id = "HsEWU7cz"
+version = "DNPrGS3F"
