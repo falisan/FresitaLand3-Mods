@@ -21,6 +21,14 @@ file = "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
 hash = "a9146583bb64ab303015a9f8165eb11da670d45a957ba93b9d11b8d53b17438e"
 
 [[files]]
+file = "mods/XaerosWorldMap_1.39.12_Fabric_1.20.jar"
+hash = "be5cdd58d0fb4cc81b128435e050f1c7c290fdc3e4b48199cf2c727946887fd7"
+
+[[files]]
+file = "mods/YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
+hash = "6c69fd0316c448cf9c70b72dbea424a85be881f9adc3e7a56e8f0b08e3611fff"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
