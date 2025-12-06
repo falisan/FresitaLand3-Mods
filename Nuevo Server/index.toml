@@ -687,11 +687,6 @@ hash = "d68efcc17365557a070fbfe07c1523c041f3c9c41eb637beace220d2c13c849c"
 metafile = true
 
 [[files]]
-file = "mods/particular.pw.toml"
-hash = "29664d906815637494071208628895d91ed4bb0457eab9b5d23be58b1277c468"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
@@ -773,11 +768,6 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "c88fc616045499e1e793fbb68a7906e1f4b744452bbd5eff8601b35f6fd7d069"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "f46a28713596f69fcbbd90870844a2e3e6ffc6000ae3ceb6164fc39223bd6175"
 metafile = true
 
 [[files]]
