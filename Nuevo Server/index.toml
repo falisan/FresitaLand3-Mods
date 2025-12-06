@@ -242,11 +242,6 @@ hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
 
 [[files]]
-file = "mods/dive-in.pw.toml"
-hash = "12395451759fc8eabc57a7dc6a13e77887b2b7a13f204db545e87631389317bc"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
