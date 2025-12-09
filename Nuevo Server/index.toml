@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Etcetera-1.20.1-1.1.2-Fabric.jar"
+hash = "8e1b1f27f33da59fddea1d8da1ccf97f6fd2cdf1a6c6d425e932aad1f82e9bc6"
+
+[[files]]
+file = "mods/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
+hash = "1eb61ef08f74978153e23e2800725eeca67c7013b33ffdd3ba69908f734746a4"
+
+[[files]]
 file = "mods/IceAndFireCE-1.2.1-1.20.1-fabric.jar"
 hash = "1545257965141501457a5e8adf849aeb4de5c24379825f0e3e529d83229ac236"
+
+[[files]]
+file = "mods/Lushness-1.1.jar"
+hash = "62a7c6943f18151c7e068ab789437e0bd85a7b40a3e95864d0f42b6f595fd5a3"
 
 [[files]]
 file = "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
@@ -21,6 +33,14 @@ file = "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
 hash = "a9146583bb64ab303015a9f8165eb11da670d45a957ba93b9d11b8d53b17438e"
 
 [[files]]
+file = "mods/SnowRealMagic-1.20.1-Fabric-10.6.4.jar"
+hash = "462cb76451acf7a71697253ea63ace35b8feb70f10e332855182cd168f228388"
+
+[[files]]
+file = "mods/Sortilege-1.20.1-1.7.4.jar"
+hash = "05a0040237c9f203f4bc878970810d65eb4f3e3da9c9b4ece90cc6c7fa4ab8cf"
+
+[[files]]
 file = "mods/XaerosWorldMap_1.39.12_Fabric_1.20.jar"
 hash = "be5cdd58d0fb4cc81b128435e050f1c7c290fdc3e4b48199cf2c727946887fd7"
 
@@ -29,9 +49,17 @@ file = "mods/YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
 hash = "6c69fd0316c448cf9c70b72dbea424a85be881f9adc3e7a56e8f0b08e3611fff"
 
 [[files]]
+file = "mods/abridged-2.0.0-fabric-1.20.1.jar"
+hash = "026cfedfd567e00ed7e8be4a0c103b679695ab16679fd1843c3bbb4ca4c92d78"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
+
+[[files]]
+file = "mods/adorablehamsterpets-3.4.1-1.20.1+fabric.jar"
+hash = "e3e8563d51d37a68d4a5d0c9a58e3ae283c09a34a835b99c0b11673333416819"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -83,6 +111,10 @@ hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
+file = "mods/betterdays-1.20.1-3.3.4.5-FABRIC.jar"
+hash = "34e64ca0e74ef5dfc402dc3bb8d4d6dccedc38de7ffa7be02d453f9a854a54f3"
+
+[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "6b425dab96068593f876377e439caf9c7f91e49336db0d3646b2da111331adba"
 metafile = true
@@ -116,6 +148,10 @@ metafile = true
 file = "mods/chefs-delight.pw.toml"
 hash = "5fed9e1a740d84cc711a97b4039b76da4a4a0f8fa39864d4e895de62326301d2"
 metafile = true
+
+[[files]]
+file = "mods/chunksfadein-1.0.7-1.20.1.jar"
+hash = "6057f77a8455121ae1473e02c55429e586d8511af57934ffdc4f96eea1ef13a3"
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -435,6 +471,10 @@ hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
 
 [[files]]
+file = "mods/imfast-FABRIC-1.20.1-1.0.3.jar"
+hash = "131b81d049171ba8b4fe05e5d85ebfea575c0cfd135f9389c914985eb5333d33"
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "ca3ca3f51541688c45a81c541ff46660853106ebda282dfd59da00f5c9c0a9cd"
 metafile = true
@@ -453,6 +493,10 @@ metafile = true
 file = "mods/immersive-ui.pw.toml"
 hash = "71ddcef1fbd1b128a705ce8f9a57e8aeda4421f08c47241484d08bd264cb7c98"
 metafile = true
+
+[[files]]
+file = "mods/immersive_melodies-0.6.0+1.20.1-fabric.jar"
+hash = "e0ad231e2e60de3d1063a520498d35fe25a42dd7f2d231c1bc5b157815ef4cdd"
 
 [[files]]
 file = "mods/immersivethunder.pw.toml"
@@ -622,6 +666,10 @@ hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
 
 [[files]]
+file = "mods/musicsync-1.3+1.20.jar"
+hash = "4f7e49e65562a0b20be86bbc6584d850f13dfc67faf479819bdaf5dd9242ce5e"
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "b852615d05a8e25c2a84af3443e25fcd46e7a0d996ddbf3c0c860928846f1f40"
 metafile = true
@@ -732,6 +780,10 @@ hash = "d7f20eaa93687d913a5a378a51964b34a77374f0b3961514b9f8715e9fe120bf"
 metafile = true
 
 [[files]]
+file = "mods/readyplayerfun-1.20.1-3.0.1.2-FABRIC.jar"
+hash = "819f5234b5991eb04c71887226b5098e7b20399933f80b1813d6a429a81f0929"
+
+[[files]]
 file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
 hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
 
@@ -749,6 +801,10 @@ metafile = true
 file = "mods/ribbits.pw.toml"
 hash = "a812307bc32bf4fa246f43e3d7dfd758c6ad75fc54448660303664582e4d272e"
 metafile = true
+
+[[files]]
+file = "mods/roadarchitect-1.6.1-fabric+1.20.1.jar"
+hash = "3df7fc2ccd71ae9e26a44f9b844c45ecb8fa8053cccc9f9b9d2a3e7c8140118d"
 
 [[files]]
 file = "mods/rpgdifficulty-1.3.16.jar"
@@ -1019,6 +1075,18 @@ hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Angel's_Weather_v1.9.1.1hf.zip"
+hash = "d7227119d52bb90bfb4b01e9260d4d622d8219b83117c4595e1a8ccd9b2cd83b"
+
+[[files]]
+file = "resourcepacks/Nature X - 12.2 [1.20.1].zip"
+hash = "b84bb22b94897a610c9254bf0ce8270db465032985e3bc8148a09d8985da34c2"
+
+[[files]]
+file = "resourcepacks/Os' Colorful Grasses (Short).zip"
+hash = "a366a2e7d505044aec434f8612eaf5ea546f09c9318a73a1d8f6679ecc136925"
+
+[[files]]
 file = "resourcepacks/armory-conglomery.pw.toml"
 hash = "87f10ab2b270f3ee946cc303c401575cb2b3e63be10547838d596f8a46b58490"
 metafile = true
@@ -1074,9 +1142,17 @@ hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
+hash = "56c76d73030fb50223560627caefa75e57ee9652c641da78cb7f2fcd2e194eae"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.2a.zip"
+hash = "a7134a10138f6e5fe523dafa23bd266ba2e53621ac65a5e23294fe9a125b9d73"
 
 [[files]]
 file = "shaderpacks/potato-shaders.pw.toml"
