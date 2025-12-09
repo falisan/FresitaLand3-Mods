@@ -169,10 +169,6 @@ file = "mods/Kiwi-1.20.1-Fabric-11.8.29.jar"
 hash = "caa6f9e96ec69281f082e8a6335472c725dbe57c18e868665e2d6f28eea4b59e"
 
 [[files]]
-file = "mods/Lushness-1.1.jar"
-hash = "62a7c6943f18151c7e068ab789437e0bd85a7b40a3e95864d0f42b6f595fd5a3"
-
-[[files]]
 file = "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
 hash = "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60"
 
@@ -187,14 +183,6 @@ hash = "cb98aa90137a301acfbb32fea4ecaf391e762e3dd2c304a103107deebb1edea1"
 [[files]]
 file = "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
 hash = "a9146583bb64ab303015a9f8165eb11da670d45a957ba93b9d11b8d53b17438e"
-
-[[files]]
-file = "mods/SnowRealMagic-1.20.1-Fabric-10.6.4.jar"
-hash = "462cb76451acf7a71697253ea63ace35b8feb70f10e332855182cd168f228388"
-
-[[files]]
-file = "mods/Sortilege-1.20.1-1.7.4.jar"
-hash = "05a0040237c9f203f4bc878970810d65eb4f3e3da9c9b4ece90cc6c7fa4ab8cf"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.39.12_Fabric_1.20.jar"
@@ -281,11 +269,6 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
-metafile = true
-
-[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "360c50d7131402e9dd322ec73da30715be320f35a0376768952e622e24e75bd1"
 metafile = true
@@ -299,15 +282,6 @@ metafile = true
 file = "mods/chatanimation.pw.toml"
 hash = "ae09f4be75a77d041ef0752e9791b0287859543f502fc901bab276faee759678"
 metafile = true
-
-[[files]]
-file = "mods/chefs-delight.pw.toml"
-hash = "5fed9e1a740d84cc711a97b4039b76da4a4a0f8fa39864d4e895de62326301d2"
-metafile = true
-
-[[files]]
-file = "mods/chunksfadein-1.0.7-1.20.1.jar"
-hash = "6057f77a8455121ae1473e02c55429e586d8511af57934ffdc4f96eea1ef13a3"
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -405,11 +379,6 @@ hash = "bcbccee9c30535b39dae9fa3bfbae0d45882cfa51448b27852933f7301d307a1"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "5da71a1bb494f0209e1decf0e7d8abfdfa2fb54646ca1635235b1abcecf660e4"
-metafile = true
-
-[[files]]
 file = "mods/death-count-1.0.jar"
 hash = "4a555e194e50b35551c2937beda4654ef5f55035812666535c9fecf6abaf8545"
 
@@ -432,10 +401,6 @@ metafile = true
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
-
-[[files]]
-file = "mods/drippyloadingscreen_fabric_3.1.0_MC_1.20.1.jar"
-hash = "c62fe14d7881126bfd2186611a74e82f24339ae4981e18b6a260a89df843ff10"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -485,11 +450,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
-metafile = true
-
-[[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
 metafile = true
 
 [[files]]
@@ -628,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/imfast-FABRIC-1.20.1-1.0.3.jar"
 hash = "131b81d049171ba8b4fe05e5d85ebfea575c0cfd135f9389c914985eb5333d33"
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "ca3ca3f51541688c45a81c541ff46660853106ebda282dfd59da00f5c9c0a9cd"
-metafile = true
 
 [[files]]
 file = "mods/immersive-hotbar.pw.toml"
@@ -788,11 +743,6 @@ hash = "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4"
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
-metafile = true
-
-[[files]]
-file = "mods/man-of-many-planes.pw.toml"
-hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
 metafile = true
 
 [[files]]
@@ -1123,11 +1073,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
-metafile = true
-
-[[files]]
-file = "mods/universal-sawmill.pw.toml"
-hash = "56ee7ab28322827548d5dc12895c2e2f5f1c2ceb80656d709bec29dfa14657a3"
 metafile = true
 
 [[files]]
