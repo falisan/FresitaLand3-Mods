@@ -517,10 +517,6 @@ hash = "d789f4c9d4d053d7a2810eba08ef663305a886b1c0ef8ee5463ee6e4bd8ac659"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.20.1-fabric-mc.jar"
-hash = "20cb47cb329d180d7488ee64eb032fba480f1734c0318846fe2549992438ee68"
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
