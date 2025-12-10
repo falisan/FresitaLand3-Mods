@@ -235,11 +235,6 @@ hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
 metafile = true
 
 [[files]]
-file = "mods/craft-of-the-wild-cotw.pw.toml"
-hash = "fc43a36c3cb7d20b957965f7729b13a57bf7c97f4ce790862fddd1db30b12df8"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "94a719c6336dce30b5092d4241a49e6739b03959bd59da9babf5b2d22b028890"
 metafile = true
