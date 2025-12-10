@@ -806,10 +806,6 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/seriousplayeranimations-1.1.1.jar"
-hash = "5c5c08c67e776786b6fe51c45503f60b63e32f1ff2b6c62e1f208eef0e90665b"
-
-[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "50034f442817b191a1b8d91577475ceadb148b67c0d262f7bd88168904aef666"
 metafile = true
