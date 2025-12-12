@@ -49,6 +49,14 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "fc627342a429675c21992b4c2ba4813b40f4c6daeb8745c5774d03d591b83930"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "6be4318e9dd3955942b00663415dacb0074858395ec05f8cb8c4085de6171abc"
+
+[[files]]
 file = "mods/Etcetera-1.20.1-1.1.2-Fabric.jar"
 hash = "8e1b1f27f33da59fddea1d8da1ccf97f6fd2cdf1a6c6d425e932aad1f82e9bc6"
 
@@ -292,6 +300,10 @@ metafile = true
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
+
+[[files]]
+file = "mods/door_knocking-1.0.0+1.20.jar"
+hash = "0a666bf4d50f74568874378618e478932ea5a2815449baaa8ad7f33fcaefff02"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -630,6 +642,14 @@ hash = "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4"
 file = "mods/lmd.pw.toml"
 hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
 metafile = true
+
+[[files]]
+file = "mods/mcef-fabric-2.1.6-1.20.1.jar"
+hash = "7a99ca890dbc23ee4848c98a78524960069277ee4e181e63b7a95f6d6fbbbaf1"
+
+[[files]]
+file = "mods/mcw-holidays-1.1.2-mc1.20.1fabric.jar"
+hash = "6550644fb00215d70456be4ad6e6a2192b246f39c944ac921c6968baf8296097"
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -1054,6 +1074,10 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
+
+[[files]]
+file = "mods/zipline-1.1.3+1.20.1.jar"
+hash = "4b4951df0c3f0cd6e37bd1310ba5cc1fa0fa67a210725437e8305ad7c551d65d"
 
 [[files]]
 file = "resourcepacks/Angel's_Weather_v1.9.1.1hf.zip"
