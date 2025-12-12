@@ -16,17 +16,17 @@ B:advanced_customization_mode = 'false';
 
 S:preload_resources = '';
 B:allow_game_intro_skip = 'true';
-S:game_intro_animation_name = '[source:local]/config/fancymenu/assets/source.gif';
+S:game_intro_animation_name = '';
 B:game_intro_fade_out = 'true';
 S:custom_game_intro_skip_text = '';
 
 
 ##[window]
 
-S:custom_window_icon_16 = '';
+S:custom_window_icon_16 = '/config/fancymenu/assets/16x16.png';
 B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
+S:custom_window_icon_macos = '/config/fancymenu/assets/iconomac.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/32x32.png';
 S:custom_window_title = 'FresitaLand: El Nuevo Mundo';
 
 
