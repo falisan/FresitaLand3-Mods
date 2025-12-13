@@ -1,12 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customsplashscreen.json"
+hash = "fbd4d29e77e444f85295e22c4d5c03fa779437588725660ede66c752989e1626"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "bb0e5343d610613e25d77b7e38641b033b2be7b9502ed527b2a135e6c0216d96"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
+file = "config/customsplashscreen/square_logo.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = "config/customsplashscreen/wide_logo.png"
+hash = "948235af7253fc3e6af68c78e33fa9439e56f77494f1f6d3c7097ce307fff00d"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "b30056a1802a6901d03a6a7f1d792a76f4d99de8678ff98c8ce618244e1ad4b7"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "c6a99d33e81c71931e4c32df7195e48043fceccd3381bd389c38111a4d3d6cdb"
+hash = "eee93facdebf8dcd2bb4691afb6130332747083ad0ced263855997d3a6235a85"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -106,7 +130,7 @@ hash = "fac84f0be6aa651d5359fcc00f1e361c1037c6ebf5808163cfa0df916ebcd43a"
 
 [[files]]
 file = "config/fancymenu/customization/menuprincipal.txt"
-hash = "b3f6756be6b2f0b81241642fe17f8e78eec945c35bb5a872efea9cc51678d886"
+hash = "2a6e7d72d9c0fb7348664258e504325911086b7cb23ebed03e8c0aad1c778c63"
 
 [[files]]
 file = "config/fancymenu/customization/mods.txt"
