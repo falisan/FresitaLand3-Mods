@@ -1,6 +1,178 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b30056a1802a6901d03a6a7f1d792a76f4d99de8678ff98c8ce618244e1ad4b7"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "c6a99d33e81c71931e4c32df7195e48043fceccd3381bd389c38111a4d3d6cdb"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "843632ddc139d7b941345ca7d8efbab60459d706960fa5ed7c451806a49ae51c"
+
+[[files]]
+file = "config/fancymenu/assets/16x16.png"
+hash = "026f988d006c12e4c1a7fd4686e2ee8a43ab198c31892ba2aa7e25fb38b7d4b6"
+
+[[files]]
+file = "config/fancymenu/assets/32x32.png"
+hash = "c660ef9b79a574fb4834cb63c31c25bdb696ab497ce150484c565bf79e2f831f"
+
+[[files]]
+file = "config/fancymenu/assets/animacion.mp4"
+hash = "ebff2f32966fc7c71c77cbdc8b0e43fc54327e1a4d50bc9a4c02c088c27a0a97"
+
+[[files]]
+file = "config/fancymenu/assets/background.png"
+hash = "b535b97b451671d07e0087dc8cd1129adf7240c3ccb8caf64ef6d6585809287e"
+
+[[files]]
+file = "config/fancymenu/assets/conectarservidor.png"
+hash = "4d574fb2390d272690abdd9d35b5b82f45307e881a5de786448fb4608e70a65a"
+
+[[files]]
+file = "config/fancymenu/assets/fresitaland3.png"
+hash = "a0e1a64196994ac085d7455150bf14892603063aa5e5aff3ca572b040ed8e2ff"
+
+[[files]]
+file = "config/fancymenu/assets/fresitaland3navidad.png"
+hash = "cce60b3887f50b55f43ea2c6d08a07ec6a6f11fa56fbc2257fefb10a993e3806"
+
+[[files]]
+file = "config/fancymenu/assets/ganasdehuir.wav"
+hash = "1bbb9b7419bb04b542dba08b912bd5255495318dcadefa488edddb5be04b814c"
+
+[[files]]
+file = "config/fancymenu/assets/iconomac.icns"
+hash = "1c1a5b814beb7bcf796aedd7377442d7406b0393f9a9401619f8309a4fc57842"
+
+[[files]]
+file = "config/fancymenu/assets/idiomas.png"
+hash = "9557dfe7f22c37bb02f4c1935a549959262066d636e6b91780a260e21477df12"
+
+[[files]]
+file = "config/fancymenu/assets/mods.png"
+hash = "513c098aeca0c45234bfa7f1a52bd53257ddfc764431d17728b7139792eacd04"
+
+[[files]]
+file = "config/fancymenu/assets/music.wav"
+hash = "d011d597b285c567b90771370a579860098fd52256939670e41dc3e8fd583a3e"
+
+[[files]]
+file = "config/fancymenu/assets/opciones.png"
+hash = "5783bf456a149e9c56ecd399fe06f85cfc18b84822220cdf18b05f657a70ad6b"
+
+[[files]]
+file = "config/fancymenu/assets/source.gif"
+hash = "adb3a19b63700019ae03536c8dfd51ea80863de07cfdfe7f98a3d9ebccebd4ea"
+
+[[files]]
+file = "config/fancymenu/assets/textura1.png"
+hash = "59aab70f2d3d8654eb8886239bf5ed616cd74630752419f30c549f45366e7389"
+
+[[files]]
+file = "config/fancymenu/assets/textura2.png"
+hash = "1defe967ed5f3029aea80c3330310624b3e436107280f4d72f382827a4dd6cb7"
+
+[[files]]
+file = "config/fancymenu/assets/winterbackground.mp4"
+hash = "8010b1e924d062861c14212be54b57c77b6aca76698466e0d34b4a521f1fcb22"
+
+[[files]]
+file = "config/fancymenu/assets/wintermusic.wav"
+hash = "63ea02fceea6eda5d8a285adb303ac3e4e4198ee94b49c8cb981c3691fda355e"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "de3727f6a03af0ec9d067a08490e4f553b1cf62bff13dc80c26931e58d0ca5c5"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "27422fbddb9a4436af370cba7645f4e32b7f9b9252581842b782d92a9309c93d"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "e97b3d021102efb963f367b3dbac6dc8087d6f9b370f1ad424c03575349c56a1"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "f79b14da51910414ad2e9c678459b7d76f8de9e45d06bfb02135fda1d97992c2"
+
+[[files]]
+file = "config/fancymenu/customization/language_select_screen_layout.txt"
+hash = "fac84f0be6aa651d5359fcc00f1e361c1037c6ebf5808163cfa0df916ebcd43a"
+
+[[files]]
+file = "config/fancymenu/customization/menuprincipal.txt"
+hash = "b3f6756be6b2f0b81241642fe17f8e78eec945c35bb5a872efea9cc51678d886"
+
+[[files]]
+file = "config/fancymenu/customization/mods.txt"
+hash = "f8608d8406dd6292a35253ecf204cb5517c8e536b7ffe547c423a37bd151df81"
+
+[[files]]
+file = "config/fancymenu/customization/opciones.txt"
+hash = "eec725a90b84a031d259bf2fdc7ad43edd9f9cbaa144a8ec956838c2c4762540"
+
+[[files]]
+file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
+hash = "1cb17eaddd8ca203357748427bdcc7262cc5407da291885a643f867519f4e188"
+
+[[files]]
+file = "config/fancymenu/customization/progress_screen_layout.txt"
+hash = "844847ac7515a7af151b3d840e65324b1cff7e251d05c85134459cd8c3f44e90"
+
+[[files]]
+file = "config/fancymenu/customization/receiving_level_screen_layout.txt"
+hash = "e662f301dafb261e617e911398d3ec1bb76e896557daa2c2f2ef6cf4d8f194f1"
+
+[[files]]
+file = "config/fancymenu/customization/select_world_screen_layout.txt"
+hash = "f45a0f609bdf162e669d627bd0f7ba21212bec0c9882e9ae5b98242290530d84"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "28406449410500f382ee38aa1f76de9fcfa8a633b8143322b3a97c0700c6c4c7"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "a4ec77b55688b56d5f628c28581856b72d5c62d53f3c82de6032c3c978d8e72c"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fancymenu/video_element_controller_metas.json"
+hash = "132e7775c349f9675e09732e65eec48aa8a528d7018ad2846ae43750809fd57a"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "fc627342a429675c21992b4c2ba4813b40f4c6daeb8745c5774d03d591b83930"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "6be4318e9dd3955942b00663415dacb0074858395ec05f8cb8c4085de6171abc"
+
+[[files]]
 file = "mods/Etcetera-1.20.1-1.1.2-Fabric.jar"
 hash = "8e1b1f27f33da59fddea1d8da1ccf97f6fd2cdf1a6c6d425e932aad1f82e9bc6"
 
@@ -245,6 +417,10 @@ hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
+file = "mods/desktop.ini"
+hash = "66da26ae37658aed1142ab419165bca3e888aa65676d72c19156c90604d7f9c4"
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
@@ -424,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
-metafile = true
-
-[[files]]
-file = "mods/hold-my-items.pw.toml"
-hash = "e848d17092a61b91d0198361cc333fb5d3912cdb5bb561f0520f2f87a75db6e6"
 metafile = true
 
 [[files]]
@@ -769,6 +940,10 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/seriousplayeranimations-1.1.1.jar"
+hash = "5c5c08c67e776786b6fe51c45503f60b63e32f1ff2b6c62e1f208eef0e90665b"
+
+[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "50034f442817b191a1b8d91577475ceadb148b67c0d262f7bd88168904aef666"
 metafile = true
@@ -981,15 +1156,6 @@ metafile = true
 [[files]]
 file = "mods/wearable-lanterns.pw.toml"
 hash = "8e895e14e1942c45b9050eafcda75f16e336271f8a9046ede1a75b853d8d01fc"
-metafile = true
-
-[[files]]
-file = "mods/welcomescreen-fabric-1.0.0-1.20.1.jar"
-hash = "abf4960997a45a79fe90ebbb8d58cd42200328c25d9f0538e102d2752239f2e2"
-
-[[files]]
-file = "mods/welcomescreen.pw.toml"
-hash = "faeebf233eb6bae0b70a70eefd7b9bdb4beb2b5d302da0d33b54bfd7238a7fd7"
 metafile = true
 
 [[files]]
