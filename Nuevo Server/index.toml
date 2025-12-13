@@ -157,6 +157,10 @@ hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains-2.5.5+1.20.1.jar"
+hash = "eff9a1c91a9855f26d9b75a42f39c6994ec806fd8ce91d1f74763a2a2f9fb595"
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
@@ -978,6 +982,10 @@ metafile = true
 file = "mods/wearable-lanterns.pw.toml"
 hash = "8e895e14e1942c45b9050eafcda75f16e336271f8a9046ede1a75b853d8d01fc"
 metafile = true
+
+[[files]]
+file = "mods/welcomescreen-fabric-1.0.0-1.20.1.jar"
+hash = "abf4960997a45a79fe90ebbb8d58cd42200328c25d9f0538e102d2752239f2e2"
 
 [[files]]
 file = "mods/welcomescreen.pw.toml"
