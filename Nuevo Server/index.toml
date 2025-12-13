@@ -1,150 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/assets/16x16.png"
-hash = "026f988d006c12e4c1a7fd4686e2ee8a43ab198c31892ba2aa7e25fb38b7d4b6"
-
-[[files]]
-file = "config/fancymenu/assets/32x32.png"
-hash = "c660ef9b79a574fb4834cb63c31c25bdb696ab497ce150484c565bf79e2f831f"
-
-[[files]]
-file = "config/fancymenu/assets/animacion.mp4"
-hash = "ebff2f32966fc7c71c77cbdc8b0e43fc54327e1a4d50bc9a4c02c088c27a0a97"
-
-[[files]]
-file = "config/fancymenu/assets/background.png"
-hash = "b535b97b451671d07e0087dc8cd1129adf7240c3ccb8caf64ef6d6585809287e"
-
-[[files]]
-file = "config/fancymenu/assets/conectarservidor.png"
-hash = "4d574fb2390d272690abdd9d35b5b82f45307e881a5de786448fb4608e70a65a"
-
-[[files]]
-file = "config/fancymenu/assets/fresitaland3.png"
-hash = "a0e1a64196994ac085d7455150bf14892603063aa5e5aff3ca572b040ed8e2ff"
-
-[[files]]
-file = "config/fancymenu/assets/fresitaland3navidad.png"
-hash = "cce60b3887f50b55f43ea2c6d08a07ec6a6f11fa56fbc2257fefb10a993e3806"
-
-[[files]]
-file = "config/fancymenu/assets/ganasdehuir.wav"
-hash = "1bbb9b7419bb04b542dba08b912bd5255495318dcadefa488edddb5be04b814c"
-
-[[files]]
-file = "config/fancymenu/assets/iconomac.icns"
-hash = "1c1a5b814beb7bcf796aedd7377442d7406b0393f9a9401619f8309a4fc57842"
-
-[[files]]
-file = "config/fancymenu/assets/idiomas.png"
-hash = "9557dfe7f22c37bb02f4c1935a549959262066d636e6b91780a260e21477df12"
-
-[[files]]
-file = "config/fancymenu/assets/mods.png"
-hash = "513c098aeca0c45234bfa7f1a52bd53257ddfc764431d17728b7139792eacd04"
-
-[[files]]
-file = "config/fancymenu/assets/music.wav"
-hash = "d011d597b285c567b90771370a579860098fd52256939670e41dc3e8fd583a3e"
-
-[[files]]
-file = "config/fancymenu/assets/opciones.png"
-hash = "5783bf456a149e9c56ecd399fe06f85cfc18b84822220cdf18b05f657a70ad6b"
-
-[[files]]
-file = "config/fancymenu/assets/source.gif"
-hash = "adb3a19b63700019ae03536c8dfd51ea80863de07cfdfe7f98a3d9ebccebd4ea"
-
-[[files]]
-file = "config/fancymenu/assets/textura1.png"
-hash = "59aab70f2d3d8654eb8886239bf5ed616cd74630752419f30c549f45366e7389"
-
-[[files]]
-file = "config/fancymenu/assets/textura2.png"
-hash = "1defe967ed5f3029aea80c3330310624b3e436107280f4d72f382827a4dd6cb7"
-
-[[files]]
-file = "config/fancymenu/assets/winterbackground.mp4"
-hash = "8010b1e924d062861c14212be54b57c77b6aca76698466e0d34b4a521f1fcb22"
-
-[[files]]
-file = "config/fancymenu/assets/wintermusic.wav"
-hash = "63ea02fceea6eda5d8a285adb303ac3e4e4198ee94b49c8cb981c3691fda355e"
-
-[[files]]
-file = "config/fancymenu/audio_element_controller_metas.json"
-hash = "de3727f6a03af0ec9d067a08490e4f553b1cf62bff13dc80c26931e58d0ca5c5"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "cca579490a075891d4cb87ad3a17ddbf5535b567e7d5daf9c1592b2d682dce19"
-
-[[files]]
-file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "f79b14da51910414ad2e9c678459b7d76f8de9e45d06bfb02135fda1d97992c2"
-
-[[files]]
-file = "config/fancymenu/customization/language_select_screen_layout.txt"
-hash = "fac84f0be6aa651d5359fcc00f1e361c1037c6ebf5808163cfa0df916ebcd43a"
-
-[[files]]
-file = "config/fancymenu/customization/menuprincipal.txt"
-hash = "497144a292bc3957245168f528d3332eaf9c25597569f520664a391c8b8728bb"
-
-[[files]]
-file = "config/fancymenu/customization/mods.txt"
-hash = "f8608d8406dd6292a35253ecf204cb5517c8e536b7ffe547c423a37bd151df81"
-
-[[files]]
-file = "config/fancymenu/customization/opciones.txt"
-hash = "eec725a90b84a031d259bf2fdc7ad43edd9f9cbaa144a8ec956838c2c4762540"
-
-[[files]]
-file = "config/fancymenu/customization/universal_layout.txt"
-hash = "58a8e0927645d5e8e918f56c5931ed91415ab526fb7e67a3be89c6b0475f4d64"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "97c79d5092d01424a2733efea57073668701beb5c30186a941e1f2faafd32de1"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
-file = "config/fancymenu/video_element_controller_metas.json"
-hash = "132e7775c349f9675e09732e65eec48aa8a528d7018ad2846ae43750809fd57a"
-
-[[files]]
-file = "config/iceandfire/iaf-client.json"
-hash = "fc627342a429675c21992b4c2ba4813b40f4c6daeb8745c5774d03d591b83930"
-
-[[files]]
-file = "config/iceandfire/iaf-common.json"
-hash = "6be4318e9dd3955942b00663415dacb0074858395ec05f8cb8c4085de6171abc"
-
-[[files]]
 file = "mods/Etcetera-1.20.1-1.1.2-Fabric.jar"
 hash = "8e1b1f27f33da59fddea1d8da1ccf97f6fd2cdf1a6c6d425e932aad1f82e9bc6"
 
@@ -886,11 +742,6 @@ file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
 hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "8b1f5a4ddb33a561b5f7c8067c90da759bee5919e99275587a5d1799fe461064"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
@@ -1172,10 +1023,6 @@ file = "resourcepacks/Angel's_Weather_v1.9.1.1hf.zip"
 hash = "d7227119d52bb90bfb4b01e9260d4d622d8219b83117c4595e1a8ccd9b2cd83b"
 
 [[files]]
-file = "resourcepacks/Nature X - 12.2 [1.20.1].zip"
-hash = "b84bb22b94897a610c9254bf0ce8270db465032985e3bc8148a09d8985da34c2"
-
-[[files]]
 file = "resourcepacks/Os' Colorful Grasses (Short).zip"
 hash = "a366a2e7d505044aec434f8612eaf5ea546f09c9318a73a1d8f6679ecc136925"
 
@@ -1187,11 +1034,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/canoe-boats.pw.toml"
-hash = "b06009e908d0de2ecf73c8d54815980f253a4c2346381acce016291aee870908"
 metafile = true
 
 [[files]]
@@ -1222,11 +1064,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/reanimated-blue.pw.toml"
 hash = "fdcf2eb51f42951873fdfcb10d0d1d5a237df7e72689873195335acfdde62a09"
-metafile = true
-
-[[files]]
-file = "resourcepacks/silly-moves.pw.toml"
-hash = "c47965cdcec3c71af724d3b1d2c7fb66469c998965f5733998dcca65ad2bacfa"
 metafile = true
 
 [[files]]
