@@ -408,6 +408,10 @@ hash = "424e15b43a3a6cfaa4637c2e545932b29e8fc2edf3dcaf9cf8a21099b11d723b"
 metafile = true
 
 [[files]]
+file = "mods/cupboard-fabric-1.20.1-2.7.jar"
+hash = "3ce1eba640c2f7e28c7b769255996f19d9776ab8add481caa84a24dabe0c80a5"
+
+[[files]]
 file = "mods/custom-splash-screen.pw.toml"
 hash = "bcbccee9c30535b39dae9fa3bfbae0d45882cfa51448b27852933f7301d307a1"
 metafile = true
