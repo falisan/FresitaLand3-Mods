@@ -837,6 +837,10 @@ hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar"
+hash = "3d6184d1a008997810de492ff506cb4696a541fffcdc8028558936b68234f1df"
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "d0a83e9b910ef2453a36f844603ba40af10e76e6ee9339ef38f1e445c5669584"
 metafile = true
