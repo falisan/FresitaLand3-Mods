@@ -972,10 +972,6 @@ file = "mods/skin_changer-fabric-1.20.1-0.6.6.jar"
 hash = "5ecfc8192d2b770bf2f2a97877bfff9980337b66f1acda2e990c63c5051b1177"
 
 [[files]]
-file = "mods/skinrestorer-2.4.3+1.20-fabric.jar"
-hash = "bede7324ff160a1860db2ea2e493690cb831175489356565babcae932972aac1"
-
-[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "c88fc616045499e1e793fbb68a7906e1f4b744452bbd5eff8601b35f6fd7d069"
 metafile = true
