@@ -436,10 +436,6 @@ hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
-file = "mods/desktop.ini"
-hash = "66da26ae37658aed1142ab419165bca3e888aa65676d72c19156c90604d7f9c4"
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
