@@ -608,6 +608,10 @@ hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
+file = "mods/gravestones-1.2.6+1.20.1+A.jar"
+hash = "2d8319eebd4d2a67e65551f3006016ae6e07815a6a801a2bdabf1fa07f8b5545"
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
@@ -1109,11 +1113,6 @@ hash = "ea0860db91d08d3c32a5a141d21a297b43608563b7594015c6d89ecde0b45463"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
-metafile = true
-
-[[files]]
 file = "mods/uranus.pw.toml"
 hash = "fc7b5f460ec60535a130187f234adfc16d82171b5efa3f9d5201bffc4eb90346"
 metafile = true
@@ -1256,6 +1255,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
 hash = "56c76d73030fb50223560627caefa75e57ee9652c641da78cb7f2fcd2e194eae"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+hash = "1c25b2b917ff6d0a511cf2edd8992e0bc66c950c401020f1b0362646bb3e2952"
 
 [[files]]
 file = "shaderpacks/Nostalgia_v5.1.zip"
