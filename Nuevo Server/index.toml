@@ -863,6 +863,10 @@ hash = "85403dfbcff240580a8630397c8a2da2c9a006fc3e4236948983520121c4620d"
 metafile = true
 
 [[files]]
+file = "mods/nirvana-fabric-1.2.2.jar"
+hash = "f30d6ed860cf921907716e9017c6cf611356ff66064e74e07a16f4b50543ac19"
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
 metafile = true
@@ -1202,11 +1206,6 @@ hash = "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "5fa91b45e2fdca864ceb74134974d9a668081b052adde4742db35494e691777e"
-metafile = true
-
-[[files]]
-file = "mods/weaponmaster.pw.toml"
-hash = "1739505075c08dcda3714a0e48c069478743e831afa79a371da75984d52b6dfb"
 metafile = true
 
 [[files]]
