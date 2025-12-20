@@ -859,8 +859,8 @@ hash = "85403dfbcff240580a8630397c8a2da2c9a006fc3e4236948983520121c4620d"
 metafile = true
 
 [[files]]
-file = "mods/nirvana-fabric-1.2.2.jar"
-hash = "f30d6ed860cf921907716e9017c6cf611356ff66064e74e07a16f4b50543ac19"
+file = "mods/nirvana-fabric-1.2.1.jar"
+hash = "b2c8df1b7f7ded393b848b4a1a05c8662df8ca49db60c1dc118e3d7b7d14b62a"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
