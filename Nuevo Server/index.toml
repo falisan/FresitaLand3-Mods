@@ -221,6 +221,10 @@ file = "mods/Pl3xMap-1.20.1-SNAPSHOT.jar"
 hash = "704a10e3bc5e128d267c7e95cc684b0bbbece97a53f5aff0734f6453fbaa4fff"
 
 [[files]]
+file = "mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
+hash = "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5"
+
+[[files]]
 file = "mods/RidingPartners-fabric-1.20.1.jar"
 hash = "cb98aa90137a301acfbb32fea4ecaf391e762e3dd2c304a103107deebb1edea1"
 
