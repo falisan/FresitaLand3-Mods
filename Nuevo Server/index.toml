@@ -888,6 +888,10 @@ hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
 metafile = true
 
 [[files]]
+file = "mods/otyacraftengine-fabric-mc1.20-3.7.0-alpha.2.jar"
+hash = "c367f5c245e8e4e5bb55e39f8c1f61c72def854eacd83fbea7408537601c0a0f"
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
