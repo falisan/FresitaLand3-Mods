@@ -185,6 +185,190 @@ file = "config/iceandfire/iaf-common.json"
 hash = "6be4318e9dd3955942b00663415dacb0074858395ec05f8cb8c4085de6171abc"
 
 [[files]]
+file = "emotes/A s c e n d.emotecraft"
+hash = "b37da97034aa3cb5ed05fe69a54347cd2db5aa0c1f964409bc2d497076502dfa"
+
+[[files]]
+file = "emotes/Arm dance.emotecraft"
+hash = "b244e0b8d52af99550a9ed286f0c4ed16a3cb5052ed1ca7fc45a85c1f0f1a543"
+
+[[files]]
+file = "emotes/Breakdance Flare.emotecraft"
+hash = "cf8bd200b90076f50cfb927bfebe528664b7720fb2d054ba21a830b682ddc815"
+
+[[files]]
+file = "emotes/Cry.emotecraft"
+hash = "c143c4d67b054c4dc0c7a420daccd677042595b5fe7eb4ce12ddd529b70b078b"
+
+[[files]]
+file = "emotes/Dance (Ralsei).emotecraft"
+hash = "e7eac43d03fb92a561b1921dc3804128948d9e2281f5762bd9c60f1f9f330192"
+
+[[files]]
+file = "emotes/Dance Moves.emotecraft"
+hash = "9aeb3d1895231fca8039abd6d3ee1c7f55597ae393a20eed0d89eedf02736dcc"
+
+[[files]]
+file = "emotes/Default Dance(loop).emotecraft"
+hash = "dcce87015d67113b2cd5b67bf425bfd90f7fd64d4bce8ac6b0711699d3c01aa1"
+
+[[files]]
+file = "emotes/Dragged down.emotecraft"
+hash = "326772d82879deabae6b0fa4eda8606898766eeef26ee8aec0799d9e05dcd74f"
+
+[[files]]
+file = "emotes/Emerge.emotecraft"
+hash = "d7cc085f1531f6f56112ad0f1053e677cbe376ce2f24a4cc633740a3d1253433"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Front Lying.emotecraft"
+hash = "3b63b69587fe0c959b9fffec6460389a8bea287b76d3deb803f2d69b206b94ed"
+
+[[files]]
+file = "emotes/Get Griddy.emotecraft"
+hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+
+[[files]]
+file = "emotes/Helicopter.emotecraft"
+hash = "31323d83d3313ad55755138bccf201eb1c2654c284f15b9cab7b27e23ac5803d"
+
+[[files]]
+file = "emotes/Hug.emotecraft"
+hash = "74d014ecfdd67f41e7ca41b7daaed92a20bcbd87c62040c9caf699fbda82d557"
+
+[[files]]
+file = "emotes/Jackson.emotecraft"
+hash = "a6bf83666c287d23c795d718bfd78cbb6f4725fee1de678c5908947e2ed357ef"
+
+[[files]]
+file = "emotes/KL-LeanFence.emotecraft"
+hash = "2e7831db694454bf9fff31ae8e9d6702dddcf7fe38d97b797279e07487b6095f"
+
+[[files]]
+file = "emotes/KL-SnowAngel.emotecraft"
+hash = "548ad41d2922e5f5e07d5ee0fbf801dceeec75a3a0d45ef72ee7ba93baa6dbeb"
+
+[[files]]
+file = "emotes/Killed.emotecraft"
+hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Kneeling.emotecraft"
+hash = "d3b20bb17489e4e8a192ee0993e2173660bd523eccfdfe20c1a79901d692b3bb"
+
+[[files]]
+file = "emotes/Lay on back.emotecraft"
+hash = "0889868b236fe194f933fae72c3534fc3937ddcc508570b02a48ab954b32f262"
+
+[[files]]
+file = "emotes/Lethal Company.emotecraft"
+hash = "3c866a7c0586c84876cb15a0554db568f0a8de3ebec4de31f7ba673dcb214de4"
+
+[[files]]
+file = "emotes/Orange Justice.emotecraft"
+hash = "5e4377b8169f4897b87e9e5df130ab5afe4cebb37987582f9f0a708e856c9a34"
+
+[[files]]
+file = "emotes/Papure.emotecraft"
+hash = "5ade436e5a511b7773a8788b2ca4d96f31c6a0bed6ba862794128fb8891fe839"
+
+[[files]]
+file = "emotes/Po Pi Po.emotecraft"
+hash = "352b21c5ec0257cbaf2bec05f0f47e0dda15fca11e2aff305dfaec9649dfae40"
+
+[[files]]
+file = "emotes/Proxima Creature.emotecraft"
+hash = "083aa2db244da11c34bb5fdb362f9ab499839647b281a37056b4e1dad49f3614"
+
+[[files]]
+file = "emotes/Pulo Do CR7.emotecraft"
+hash = "26f4b6befc52938057823da5b6bb2de460a3e78464c4df9f0d30eab00e507baa"
+
+[[files]]
+file = "emotes/Reverential Bow.emotecraft"
+hash = "b2dae9c34edf1e4c2bcc45a21279c3b5bc5b738b36b2c277e013fffea292bd3f"
+
+[[files]]
+file = "emotes/Showing suit.emotecraft"
+hash = "118f9ea44e99aefa3f825015ec1296b46d17ad3ee61c35eae15e4ecf4c7feeaf"
+
+[[files]]
+file = "emotes/Shuffle.emotecraft"
+hash = "36a238668b30485215d4417efb4638d92663f8066e3e91831ac1531e410fe843"
+
+[[files]]
+file = "emotes/Sit on the edge.emotecraft"
+hash = "fcd22bc9d9261d02614bc6f64dbc095cad0965344381900d130ca7f7850c7d3c"
+
+[[files]]
+file = "emotes/Sit.emotecraft"
+hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
+
+[[files]]
+file = "emotes/Speak.emotecraft"
+hash = "280231798da392b48441d444c603bdb09d5edb823cc9682d76d67d7d9490ee35"
+
+[[files]]
+file = "emotes/Ta da!.emotecraft"
+hash = "2ceeaef18b086cf99bd30430a0909c5f746f41fdddf88f34555dbb72e3f7a5eb"
+
+[[files]]
+file = "emotes/blow kiss.emotecraft"
+hash = "9edd811a26112327b7d4bef979abe4a11852dd812730c55d6c4eccb7754d5e7c"
+
+[[files]]
+file = "emotes/club penguin dance.emotecraft"
+hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
+
+[[files]]
+file = "emotes/devinsleep1.emotecraft"
+hash = "ccea48a1eeebb31d3b3170f279d7c06e87f8f4d75d8927fea4acbc7e6b905cd9"
+
+[[files]]
+file = "emotes/devinsleep2.emotecraft"
+hash = "925d016599040cf8120fc7ff6d593966ecfcd8bcdef63fc106bc161e01d76b5b"
+
+[[files]]
+file = "emotes/gangam style.emotecraft"
+hash = "18bef1fa35316b617befb5a96e0be17ed48403d3ddb5557a737e65cfc74a45c8"
+
+[[files]]
+file = "emotes/lean.emotecraft"
+hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
+
+[[files]]
+file = "emotes/lying on side.emotecraft"
+hash = "1505b2e5984883b4775c4be0695fb6b41eaa265e8f6c6d589d1904b18d5b97e4"
+
+[[files]]
+file = "emotes/smoking loop.emotecraft"
+hash = "2d7e47b278c6eb1fcfab1258513a5165b8656079db1ce2a3d0047e51372a5c67"
+
+[[files]]
+file = "emotes/smoking.emotecraft"
+hash = "42fa328cfb19e165f01336e3ca2b6cd651a0f9f0e61f687d7d7a170f145b93c3"
+
+[[files]]
+file = "emotes/yoinky sploinky.emotecraft"
+hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
+
+[[files]]
+file = "emotes/Держать предмет между зубами.emotecraft"
+hash = "77fd45c39c0aa28667efc19780540e7b23ea537f3bf30e81f95756827d9dc256"
+
+[[files]]
+file = "emotes/На скорости держаться за лодку сзади.emotecraft"
+hash = "ed12a03a1fee9183bb3c99f9244452e3c3b67812b30f77e1ce03e992294e2223"
+
+[[files]]
+file = "emotes/Отжимания в стойке на руках.emotecraft"
+hash = "b9d0cbade475d8a190ed055ce2ada6fc15d29cf64fb8905bfad30c1acede875e"
+
+[[files]]
 file = "mods/BetterThirdPerson-Fabric-1.20-1.9.0.jar"
 hash = "e0511e543ebcd6e7241ef7bbc28e6f40ad886b4b1e06972c23c5cbde3b8101ac"
 
@@ -1194,6 +1378,10 @@ hash = "7d8cff807bc53eaa6f4af2dc6c565d28a81663818c3dc566fd7c3a445b7b0962"
 [[files]]
 file = "mods/watermedia-2.1.37.jar"
 hash = "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
+
+[[files]]
+file = "mods/watermedia_youtube_plugin-2.1.1.jar"
+hash = "99629d764034cc37edfeba0e764df1d66ebf9806b83cf6eb7c9636e998d35a81"
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
