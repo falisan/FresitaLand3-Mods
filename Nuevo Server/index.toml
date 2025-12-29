@@ -393,6 +393,10 @@ file = "mods/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
 hash = "1eb61ef08f74978153e23e2800725eeca67c7013b33ffdd3ba69908f734746a4"
 
 [[files]]
+file = "mods/Gnome_Chronicles_Chapter_2.jar"
+hash = "423a9c8702359b6b2b819b7182c386d72846469e37d8460f367e931c7ec1523a"
+
+[[files]]
 file = "mods/IceAndFireCE-1.2.1-1.20.1-fabric.jar"
 hash = "1545257965141501457a5e8adf849aeb4de5c24379825f0e3e529d83229ac236"
 
@@ -419,6 +423,10 @@ hash = "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5"
 [[files]]
 file = "mods/RidingPartners-fabric-1.20.1.jar"
 hash = "cb98aa90137a301acfbb32fea4ecaf391e762e3dd2c304a103107deebb1edea1"
+
+[[files]]
+file = "mods/Saros-Essentials-Mod-1.20.1-Fabric-v0.3.jar"
+hash = "a3614eab9531df47ee024207f0eae2a1b85dbd9b6294ee74a4811c8b1350b254"
 
 [[files]]
 file = "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
@@ -795,6 +803,10 @@ hash = "c0d3f658d517c420f48484932de415279d518f42d2cfc3867a0c3fce51c1d45a"
 metafile = true
 
 [[files]]
+file = "mods/freefbible-FABRIC-1.20.1-1.0.0.jar"
+hash = "875e5f8b611135c93cbac5a31247aa909d85fb1ca268867e6c0d6ee2f08afc02"
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
@@ -1002,6 +1014,10 @@ hash = "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4"
 file = "mods/lmd.pw.toml"
 hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
 metafile = true
+
+[[files]]
+file = "mods/loudhorns-1.20.1-fabric-1.0.2.jar"
+hash = "72229435078bc6e56e719ca14a0c29da8d2e2feaae6cd089c72690dcc11ccecc"
 
 [[files]]
 file = "mods/mcef-fabric-2.1.6-1.20.1.jar"
@@ -1405,6 +1421,14 @@ metafile = true
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
+
+[[files]]
+file = "mods/wheelchairs-fabric-2.6.jar"
+hash = "de2fb0f8cecbfdb942a8f369b4bec8bcdc7074fba474f4e1602875ccbc29ec64"
+
+[[files]]
+file = "mods/wiretap-1.3.0+1.20.1.fabric.jar"
+hash = "ab840935a2ae502b6824eaa26f66e5e7850f6756e72930614f4bdb306d611255"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
