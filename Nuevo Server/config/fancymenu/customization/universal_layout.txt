@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1765628475546
+  last_edited_time = 1767005352081
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3024c4c1-f03c-41d4-9ff0-8713b856cc9d-1765628461497] = [groups:][instances:]
+  [loading_requirement_container_meta:e4c693e8-4166-4da7-af6d-b91dc4e3a055-1767005343824] = [groups:][instances:]
 }
 
 customization {
@@ -32,11 +32,11 @@ layout_action_executable_blocks {
 }
 
 element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/music.wav
+  audio_instance_0 = [source:local]/config/fancymenu/assets/2026.wav
   audio_instance_weight_0 = 1.0
   play_mode = normal
   looping = true
-  volume = 0.15
+  volume = 0.45
   sound_source = master
   element_type = audio_v2
   instance_identifier = e1fb36ea-6cf0-4945-9f81-5f33836fac60-1765560476471
@@ -48,8 +48,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3840
-  auto_sizing_base_screen_height = 2160
+  auto_sizing_base_screen_width = 2562
+  auto_sizing_base_screen_height = 1440
   sticky_anchor = false
   anchor_point = mid-centered
   x = -182
