@@ -37,6 +37,10 @@ file = "config/fancymenu/assets/2026.wav"
 hash = "5376a49c56178fa24599acfce39f31d406b3ab08e9b5d08cfc2285d788c60fac"
 
 [[files]]
+file = "config/fancymenu/assets/2026version2.jpg"
+hash = "9b1f04357f00cb148570629b5c458ccb903b8cc8ca3b0d4b320204d1da0d6557"
+
+[[files]]
 file = "config/fancymenu/assets/32x32.png"
 hash = "c660ef9b79a574fb4834cb63c31c25bdb696ab497ce150484c565bf79e2f831f"
 
@@ -126,7 +130,7 @@ hash = "fac84f0be6aa651d5359fcc00f1e361c1037c6ebf5808163cfa0df916ebcd43a"
 
 [[files]]
 file = "config/fancymenu/customization/menuprincipal.txt"
-hash = "dac1b61ae6c950b37ff4f6cb15aacb932255c841759be4453383e33dea0d3492"
+hash = "6c270127435d85440e7657b05dd95815604843977e1821fc41305330bc012066"
 
 [[files]]
 file = "config/fancymenu/customization/mods.txt"
