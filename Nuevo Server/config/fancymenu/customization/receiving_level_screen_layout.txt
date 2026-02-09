@@ -3,17 +3,17 @@ type = fancymenu_layout
 layout-meta {
   identifier = receiving_level_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1765574057588
+  last_edited_time = 1770392064587
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:df9a12de-c1d6-4951-a4d9-66ab4f857b7c-1765574040178] = [groups:][instances:]
+  [loading_requirement_container_meta:c18ce09a-5f40-4cc0-ad63-4ade7d32c263-1770392054552] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/conectarservidor.png
+  image_path = [source:local]/config/fancymenu/assets/conectarstranger.png
   slide = false
   repeat_texture = false
   parallax = false
@@ -79,8 +79,8 @@ vanilla_button {
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
   anchor_point = vanilla
-  x = 220
-  y = 130
+  x = 327
+  y = 190
   width = 200
   height = 9
   stretch_x = false

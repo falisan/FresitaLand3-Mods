@@ -53,8 +53,24 @@ file = "config/fancymenu/assets/background.png"
 hash = "b535b97b451671d07e0087dc8cd1129adf7240c3ccb8caf64ef6d6585809287e"
 
 [[files]]
+file = "config/fancymenu/assets/boton1.jpg"
+hash = "6debb6935f4ea8b3ae1d8a3192dafa71c61abf7818d286bb4ac5409a2ec51eba"
+
+[[files]]
+file = "config/fancymenu/assets/boton2.jpg"
+hash = "56be1413070accb23586c68e3650473830fae2e9fd2068dacc4ad1e125f20d74"
+
+[[files]]
 file = "config/fancymenu/assets/conectarservidor.png"
 hash = "4d574fb2390d272690abdd9d35b5b82f45307e881a5de786448fb4608e70a65a"
+
+[[files]]
+file = "config/fancymenu/assets/conectarstranger.png"
+hash = "374991703ee0456943b20a3e842063c9505b5b15c8038274e829db5da87801aa"
+
+[[files]]
+file = "config/fancymenu/assets/fondonuevo.jpg"
+hash = "5af37cc772efb98e943a4f34ef5662c1b4607a546b0f7db36aa45266306b5506"
 
 [[files]]
 file = "config/fancymenu/assets/fresitaland3.png"
@@ -63,6 +79,10 @@ hash = "a0e1a64196994ac085d7455150bf14892603063aa5e5aff3ca572b040ed8e2ff"
 [[files]]
 file = "config/fancymenu/assets/fresitaland3navidad.png"
 hash = "cce60b3887f50b55f43ea2c6d08a07ec6a6f11fa56fbc2257fefb10a993e3806"
+
+[[files]]
+file = "config/fancymenu/assets/fresitalandnuevo.png"
+hash = "b9fd6eb7050deae85bf2b5c45dd5eebf1464ecd77d37142a57c6eae1e4404702"
 
 [[files]]
 file = "config/fancymenu/assets/ganasdehuir.wav"
@@ -89,8 +109,36 @@ file = "config/fancymenu/assets/opciones.png"
 hash = "5783bf456a149e9c56ecd399fe06f85cfc18b84822220cdf18b05f657a70ad6b"
 
 [[files]]
+file = "config/fancymenu/assets/opcionesstranger.png"
+hash = "b5e7b23dc54c8f7a4f371ec6d9a6473069c08b8667bc5e60b7af9a6f9ce91670"
+
+[[files]]
 file = "config/fancymenu/assets/source.gif"
 hash = "adb3a19b63700019ae03536c8dfd51ea80863de07cfdfe7f98a3d9ebccebd4ea"
+
+[[files]]
+file = "config/fancymenu/assets/stranger.wav"
+hash = "2c82904a2195442d32d91528269a1fd47466760ef81d8f9f3cbfed7a5116b877"
+
+[[files]]
+file = "config/fancymenu/assets/strangerboton.png"
+hash = "c8b69218364a281f29f5c6124bf3ac71b03d091915298c8ca0b36414c54e52ae"
+
+[[files]]
+file = "config/fancymenu/assets/strangerboton2.png"
+hash = "e18a2b5c5d74710c14afaeaf90697e1f32faaf8ae428592d3d6927f049f9c783"
+
+[[files]]
+file = "config/fancymenu/assets/strangerthings.png"
+hash = "014dbe9941d85d6e0025ebd4a12a37b63c50394ea43526508716ff8285d44517"
+
+[[files]]
+file = "config/fancymenu/assets/strangerthingstitulo.png"
+hash = "6338cebd6756f0befd00d9a8261de39c216fd617dfbb1be0219be498453b776d"
+
+[[files]]
+file = "config/fancymenu/assets/strangertitulo3.png"
+hash = "c44281486c7858204ad5c0e83c9d089d51e3c51ae42907ec966b13ce083ea224"
 
 [[files]]
 file = "config/fancymenu/assets/textura1.png"
@@ -114,7 +162,7 @@ hash = "de3727f6a03af0ec9d067a08490e4f553b1cf62bff13dc80c26931e58d0ca5c5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "27422fbddb9a4436af370cba7645f4e32b7f9b9252581842b782d92a9309c93d"
+hash = "61994ebfe02bfc55ce818880982ae744a876771fa7691d4c6c30ddde0989a1d3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -122,7 +170,7 @@ hash = "e97b3d021102efb963f367b3dbac6dc8087d6f9b370f1ad424c03575349c56a1"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "f79b14da51910414ad2e9c678459b7d76f8de9e45d06bfb02135fda1d97992c2"
+hash = "0b9e474076ea563a5192399a8ccec1aa2a3b2ee480b8c864612091c5b48666cc"
 
 [[files]]
 file = "config/fancymenu/customization/language_select_screen_layout.txt"
@@ -130,7 +178,7 @@ hash = "fac84f0be6aa651d5359fcc00f1e361c1037c6ebf5808163cfa0df916ebcd43a"
 
 [[files]]
 file = "config/fancymenu/customization/menuprincipal.txt"
-hash = "6c270127435d85440e7657b05dd95815604843977e1821fc41305330bc012066"
+hash = "6214bc72fa0aa063e1e28a34b4eea2682c0873111c77cb70218c49b075be7cea"
 
 [[files]]
 file = "config/fancymenu/customization/mods.txt"
@@ -138,7 +186,7 @@ hash = "f8608d8406dd6292a35253ecf204cb5517c8e536b7ffe547c423a37bd151df81"
 
 [[files]]
 file = "config/fancymenu/customization/opciones.txt"
-hash = "eec725a90b84a031d259bf2fdc7ad43edd9f9cbaa144a8ec956838c2c4762540"
+hash = "499684dd53ec41ea8548621e738866dd3dcc3f435ae91a57ecc01ed7c6012849"
 
 [[files]]
 file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
@@ -146,11 +194,11 @@ hash = "1cb17eaddd8ca203357748427bdcc7262cc5407da291885a643f867519f4e188"
 
 [[files]]
 file = "config/fancymenu/customization/progress_screen_layout.txt"
-hash = "844847ac7515a7af151b3d840e65324b1cff7e251d05c85134459cd8c3f44e90"
+hash = "b954cd618c167a467506eef9c84bb82939ac929c5326bfbecf51348523043d81"
 
 [[files]]
 file = "config/fancymenu/customization/receiving_level_screen_layout.txt"
-hash = "e662f301dafb261e617e911398d3ec1bb76e896557daa2c2f2ef6cf4d8f194f1"
+hash = "3629513672614f9a980a3df22fc9ce4682dd2af05f9845357db63ffbb0c920cd"
 
 [[files]]
 file = "config/fancymenu/customization/select_world_screen_layout.txt"
@@ -158,7 +206,7 @@ hash = "f45a0f609bdf162e669d627bd0f7ba21212bec0c9882e9ae5b98242290530d84"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "44af04e37ce1020b840f95a17189dc2bc65b470cce472ea5b3aebb362e1b4726"
+hash = "b0fc32938033f7e00c5cdcd82c203573455987ecb32597da0cd97421c06c23be"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -848,10 +896,6 @@ file = "mods/horseman-1.20.1-1.3.14-fabric.jar"
 hash = "ee424b4eb090b7a9f23b0d1121d99ea3081be8c7967abdd730e57870258afaf9"
 
 [[files]]
-file = "mods/iammusicplayer-fabric-mc1.20-3.22.0-alpha.5.jar"
-hash = "3de526c0679a242fd72a84b800f38013a193ee1fdd656bf6a2686d0cc82a3906"
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
@@ -931,11 +975,6 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "5dbbebb1be98bfa055096c70fcbf668553b736ad2f9d20a5ff2d2cafc40968c1"
-metafile = true
-
-[[files]]
-file = "mods/joy-of-painting.pw.toml"
-hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
 metafile = true
 
 [[files]]
@@ -1026,10 +1065,6 @@ hash = "72229435078bc6e56e719ca14a0c29da8d2e2feaae6cd089c72690dcc11ccecc"
 [[files]]
 file = "mods/mcef-fabric-2.1.6-1.20.1.jar"
 hash = "7a99ca890dbc23ee4848c98a78524960069277ee4e181e63b7a95f6d6fbbbaf1"
-
-[[files]]
-file = "mods/mcw-holidays-1.1.2-mc1.20.1fabric.jar"
-hash = "6550644fb00215d70456be4ad6e6a2192b246f39c944ac921c6968baf8296097"
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -1171,6 +1206,10 @@ metafile = true
 file = "mods/prism-lib.pw.toml"
 hash = "0ba23afebc8a761538a860cf9b21d6f456cfecf4573249dae9c6d7b1f3d43089"
 metafile = true
+
+[[files]]
+file = "mods/punchy-2.3-fabric-1.20.1.jar"
+hash = "3933893112eb2c4e3584b28d13f99b447230fd4181e7ed6faace31439adf3fb6"
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
@@ -1458,10 +1497,6 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
-
-[[files]]
-file = "mods/zipline-1.1.3+1.20.1.jar"
-hash = "4b4951df0c3f0cd6e37bd1310ba5cc1fa0fa67a210725437e8305ad7c551d65d"
 
 [[files]]
 file = "resourcepacks/Angel's_Weather_v1.9.1.1hf.zip"
