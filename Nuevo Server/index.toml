@@ -433,6 +433,14 @@ file = "mods/BetterThirdPerson-Fabric-1.20-1.9.0.jar"
 hash = "e0511e543ebcd6e7241ef7bbc28e6f40ad886b4b1e06972c23c5cbde3b8101ac"
 
 [[files]]
+file = "mods/CosmeticArmor-1.20-1.6.0.jar"
+hash = "72fd672fd7c25f9a8db49cf6c625c1b6af2acf4971a048d76e0db2557b898859"
+
+[[files]]
+file = "mods/CosmeticArmorCompatibility-1.1.2.jar"
+hash = "62ca5103a324b62948713fe4b3fecef65c0bac41208df25eb906955db631738b"
+
+[[files]]
 file = "mods/CutThrough-v8.0.2-1.20.1-Fabric.jar"
 hash = "aafd51a6be919a95ac269a98d06a552043a25f99e5d48a07a68eadb8e53cf064"
 
@@ -451,6 +459,10 @@ hash = "423a9c8702359b6b2b819b7182c386d72846469e37d8460f367e931c7ec1523a"
 [[files]]
 file = "mods/IceAndFireCE-1.2.1-1.20.1-fabric.jar"
 hash = "1545257965141501457a5e8adf849aeb4de5c24379825f0e3e529d83229ac236"
+
+[[files]]
+file = "mods/Incendium_1.20.x_v5.3.5.jar"
+hash = "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
 
 [[files]]
 file = "mods/Kiwi-1.20.1-Fabric-11.8.29.jar"
@@ -699,6 +711,10 @@ hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
+file = "mods/developer-resources-0.2.jar"
+hash = "72a219fe19f54d88c7488a66b7c71c1aad280eef1ba99d010be8b965a96fae22"
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
@@ -848,6 +864,10 @@ metafile = true
 file = "mods/formations.pw.toml"
 hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
 metafile = true
+
+[[files]]
+file = "mods/formationsnether-1.0.5.jar"
+hash = "bb40e34ccaca18d5796fce6f8484931c9002ff07bb0b9a7223d48d12e75948d9"
 
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
@@ -1225,6 +1245,10 @@ file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
 hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
 
 [[files]]
+file = "mods/refurbished_furniture-fabric-1.20.1-1.0.20.jar"
+hash = "0d285cd5f2b54d46b9cd3290d3228ec1b5364157067a511c0f3effd91afd08e3"
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
@@ -1368,6 +1392,10 @@ metafile = true
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
+
+[[files]]
+file = "mods/trade-villager-hats-0.1.0.jar"
+hash = "77d236faccdf919eb097fc7c5351f1bd8f30958208f2e668967020aedfbab0c0"
 
 [[files]]
 file = "mods/trashslot.pw.toml"
