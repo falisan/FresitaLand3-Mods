@@ -875,6 +875,10 @@ hash = "c0d3f658d517c420f48484932de415279d518f42d2cfc3867a0c3fce51c1d45a"
 metafile = true
 
 [[files]]
+file = "mods/framework-fabric-1.20.1-0.8.0.jar"
+hash = "fb35570ec10ad863a391c3da969d2555f72bb75aa02fc0d12c504f7362a00f7a"
+
+[[files]]
 file = "mods/freefbible-FABRIC-1.20.1-1.0.0.jar"
 hash = "875e5f8b611135c93cbac5a31247aa909d85fb1ca268867e6c0d6ee2f08afc02"
 
