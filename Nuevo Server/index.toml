@@ -711,6 +711,10 @@ hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-1.3-1.20.x-FDR-support.jar"
+hash = "e1a6a17b8bb30eedc15a88d1365ff67393bd8d565d76ddb8c7c66afadae747dd"
+
+[[files]]
 file = "mods/developer-resources-0.2.jar"
 hash = "72a219fe19f54d88c7488a66b7c71c1aad280eef1ba99d010be8b965a96fae22"
 
@@ -955,6 +959,10 @@ metafile = true
 file = "mods/incapacitated.pw.toml"
 hash = "bf76c91bc8fdea48f9361c022f9d2535400ff38e4feff5b89e4f40e2b02637db"
 metafile = true
+
+[[files]]
+file = "mods/indium-1.0.36+mc1.20.1.jar"
+hash = "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999"
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -1397,6 +1405,10 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
+file = "mods/toms_storage_fabric-1.20-1.7.1.jar"
+hash = "3487d7b56b9ec734a9b06e356839f2177bc32f569682a552ecf9ccc619d5913c"
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
@@ -1533,6 +1545,10 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
+
+[[files]]
+file = "mods/zipline-1.1.3+1.20.1.jar"
+hash = "4b4951df0c3f0cd6e37bd1310ba5cc1fa0fa67a210725437e8305ad7c551d65d"
 
 [[files]]
 file = "resourcepacks/Angel's_Weather_v1.9.1.1hf.zip"
